@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+2009.03 ~2015.02
+2015.04 ~ 2018.11 Singta
+2019.02 ~ Socialclub
+
 <!--
 **changejang/changejang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
