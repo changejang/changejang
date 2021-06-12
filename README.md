@@ -7,7 +7,7 @@ Mobile Game Backend
 - Node.js / Mysql
 - AWS
 
-### 2019.02 ~
+### 2019.02 ~ 2021.04
 E-commrce Backend
 - Node.js / Mongodb
 - AWS
