@@ -13,3 +13,7 @@ E-commrce Backend
 - AWS
 
 ## 개인 프로젝트
+### 인스타그램 좋아요 봇
+- Node.js / Mongodb / Google Cloud / Cloud Compute / Cloud Function
+- 새로운 계정을 생성하는 기능 (현재 인스타에서 막음)
+- 자동으로 좋아요, 팔로우 하는 기능
