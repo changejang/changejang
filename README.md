@@ -1,4 +1,7 @@
 ### Hi there 👋
+Node.js / React / 
+Mysql / Mongodb
+AWS / Google Cloud
 
 ### 2009.03 ~2015.02
 
