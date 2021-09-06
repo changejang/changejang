@@ -1,5 +1,6 @@
 ### Hi there 👋
-Node.js / React / 
+Node.js / Golang
+React / Vue
 Mysql / Mongodb
 AWS / Google Cloud
 
