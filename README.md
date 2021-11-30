@@ -22,6 +22,11 @@ E-commrce Backend
 - 새로운 계정을 생성하는 기능 (현재 인스타에서 막음)
 - 자동으로 좋아요, 팔로우 하는 기능
 
+### 일정관리 앱
+- Node.js / MongoDB / Google Cloud / Cloud Compute
+- Telegram Bot과 연동 해서 알림
+- 구글 캘린더와 연동해서 일정 관리
+- 
 ### Telegram 
 
 ## 팀 프로젝트
