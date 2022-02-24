@@ -1,20 +1,21 @@
 ### Hi there 👋
-Node.js / Golang
-React / Vue
-Mysql / Mongodb
-AWS / Google Cloud
-
-### 2009.03 ~2015.02
-
-### 2015.04 ~ 2018.11
-Mobile Game Backend
-- Node.js / Mysql
-- AWS
+Node.js / Golang /
+Nest.js / Express /
+React / Vue /
+PostgreSQL / Mysql / Mongodb / 
+AWS / Google Cloud /
 
 ### 2019.02 ~ 2021.04
 E-commrce Backend
 - Node.js / Mongodb
 - AWS
+
+### 2015.04 ~ 2018.11
+Mobile Game Backend
+- Node.js / Mysql
+- AWS
+- 
+### 2009.03 ~2015.02
 
 ## 개인 프로젝트
 ### 인스타그램 좋아요 봇
